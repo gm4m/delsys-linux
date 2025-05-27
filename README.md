@@ -10,7 +10,7 @@ Check delsys-windows for description of linux version, i didnt put any to here
 Dont use the sh and python file that i shared on this projects on real PCs or anybody's pc, just use it on a virtual box.
 
 ## Dont forget to backup
-If you lose these datas, if you using Onedrive or any backupping services then you can get your datas back.
+If you lose these datas, if you using rsync or any backupping services then you can get your datas back.
 
 ## Usage
 - Download/clone the py and sh file.
